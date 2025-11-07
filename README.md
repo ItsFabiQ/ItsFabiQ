@@ -1,3 +1,5 @@
+<img src="https://github.com/ItsFabiQ/ItsFabiQ/blob/main/kurisu.jpg" alt="Makise kurisu source: https://www.pixiv.net/en/artworks/97031712" height="165"/>
+
 ## Hello i'm FabiKu
 
 I am a student in poland and like programming 
