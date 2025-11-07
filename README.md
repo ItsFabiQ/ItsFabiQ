@@ -5,9 +5,9 @@ I am a student in poland and like programming
 
 ## Github Stats
 <p align="center">
-![GitHub Stats]()
 
-<img src="[https://github-readme-stats.vercel.app/api?username=ItsFabiQ&theme=tokyonight&show_icons=true&hide_border=true&count_private=true]" alt="GitHub Stats" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=ItsFabiQ&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
 
 </p>
 <!--
