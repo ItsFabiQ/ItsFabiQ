@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://github.com/ItsFabiQ/ItsFabiQ/blob/main/kurisu.jpg" alt="Makise kurisu source: https://www.pixiv.net/en/artworks/97031712" width="85%"/>
+  <img src="https://github.com/ItsFabiQ/ItsFabiQ/blob/main/kurisu.jpg" alt="Makise kurisu source: https://www.pixiv.net/en/artworks/97031712" width="90%"/>
 </p>
 
 
