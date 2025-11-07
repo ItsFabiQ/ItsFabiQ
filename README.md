@@ -4,7 +4,10 @@ I am a student in poland and like programming
 
 
 ## Github Stats
+<p align="center">
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ItsFabiQ&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+
+</p>
 <!--
 **ItsFabiQ/ItsFabiQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
