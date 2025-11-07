@@ -15,8 +15,10 @@ I am a student in poland and like programming
 
 <img src="https://github-readme-stats.vercel.app/api?username=ItsFabiQ&theme=react&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsFabiQ&theme=react&show_icons=true&hide_border=true&layout=compact" alt="GitHub Stats" height="165"/></br>
-<img src="https://count.getloli.com/@ItsFabiQ" alt="ItsFabiQ" />
+
 </p>
 
 
-
+<p align="center">
+<img src="https://count.getloli.com/@ItsFabiQ?theme=original-old" alt="ItsFabiQ" />
+</p>
